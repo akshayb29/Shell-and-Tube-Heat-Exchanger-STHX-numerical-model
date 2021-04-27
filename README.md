@@ -23,6 +23,7 @@ If you find the code useful, I would highly appreciate it if you cite the code a
 The DOI for the code is: (will be posted upon publication)
 
 ## References
+
 <a id="1">[1]</a> 
 Insert code citation upon publication
 
