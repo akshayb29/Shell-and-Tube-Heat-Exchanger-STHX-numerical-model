@@ -4,7 +4,7 @@ This code presents a numerical model coded in Julia programming language to solv
 
 ## Numerical model summary
 
-- Newly developed correlations enables the model to solve for flow over bare, disc-finned, and cylindrical pin-finned tube banks. 
+- Newly developed correlations enable the model to solve for flow over bare, disc-finned, and cylindrical pin-finned tube banks. 
 - The current version of the model incorporates U-shaped tubes. 
 - Both internal and external flow streams utilize supercritical carbon dioxide as the working fluid. 
 - The thermophysical properties of the working fluid are obtained using CoolProp and thus the flow streams can be modified to any fluid available on the CoolProp package (https://doi.org/10.1021/ie4033999) [[2]](#2). 
