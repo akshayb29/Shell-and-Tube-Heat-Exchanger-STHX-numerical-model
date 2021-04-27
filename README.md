@@ -18,7 +18,7 @@ The DOI for the code is: (will be posted upon publication)
 
 ### References
 <a id="1">[1]</a> 
-Insert article citation upon publication
+Insert code citation upon publication
 
 <a id="2">[2]</a> 
 Bell, I. H., Wronski, J., Quoilin, S., & Lemort, V. (2014). 
@@ -30,4 +30,4 @@ https://doi.org/10.1021/ie4033999
 Insert article citation upon publication
 
 <a id="4">[4]</a> 
-Insert code citation upon publication
+Insert article citation upon publication
