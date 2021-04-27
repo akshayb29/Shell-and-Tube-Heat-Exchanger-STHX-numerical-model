@@ -17,10 +17,17 @@ If you find the code useful, I would highly appreciate it if you cite the code a
 The DOI for the code is: (will be posted upon publication)
 
 ### References
-<a id="1">[1]</a> Insert article citation upon publication
+<a id="1">[1]</a> 
+Insert article citation upon publication
 
-<a id="2">[2]</a> Bell, I. H., Wronski, J., Quoilin, S., & Lemort, V. (2014). Pure and pseudo-pure fluid thermophysical property evaluation and the open-source thermophysical property library CoolProp. Industrial & engineering chemistry research, 53(6), 2498-2508. https://doi.org/10.1021/ie4033999
+<a id="2">[2]</a> 
+Bell, I. H., Wronski, J., Quoilin, S., & Lemort, V. (2014). 
+Pure and pseudo-pure fluid thermophysical property evaluation and the open-source thermophysical property library CoolProp. 
+Industrial & engineering chemistry research, 53(6), 2498-2508. 
+https://doi.org/10.1021/ie4033999
 
-<a id="3">[3]</a> Insert article citation upon publication
+<a id="3">[3]</a> 
+Insert article citation upon publication
 
-<a id="4">[4]</a> Insert code citation upon publication
+<a id="4">[4]</a> 
+Insert code citation upon publication
