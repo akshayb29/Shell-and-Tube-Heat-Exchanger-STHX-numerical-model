@@ -12,5 +12,7 @@ If you find the code useful, I would highly appreciate it if you cite it along w
 
 ### References
 [1] Bell, I. H., Wronski, J., Quoilin, S., & Lemort, V. (2014). Pure and pseudo-pure fluid thermophysical property evaluation and the open-source thermophysical property library CoolProp. Industrial & engineering chemistry research, 53(6), 2498-2508.
+
 [2] Insert article citation upon publication
+
 [3] Insert article citation upon publication
