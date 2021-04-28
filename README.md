@@ -4,9 +4,9 @@ This code presents a numerical model coded in Julia programming language to solv
 
 <p align="center">
   <img width="460" height="300" src="https://user-images.githubusercontent.com/57877963/116480097-90bd7300-a835-11eb-9150-f6dfdb0890ea.png">
-  
-  <b>Figure 1.</b> Schematic of the counterflow shell-and-tube heat exchanger modelled in the numerical model
 </p>
+<h4 align="center" style="margin-top: 0px;"><b>Figure 1.</b> Schematic of the counterflow shell-and-tube heat exchanger modelled in the numerical model</h4>
+
 
 ## Numerical model summary
 
