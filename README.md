@@ -17,6 +17,18 @@ This code presents a numerical model coded in Julia programming language to solv
 - Nickel-based superalloy, Haynes282, is used as the solid material in this version and can be modified to your preference. 
 - The code writes the key geometric parameters and performance outputs to a CSV file titled "HXTestData.csv" located in the same directory as the Jupyter Notebook in your local device.
 
+## Outputs from the code
+
+Apart from the key performance parameters, the code outputs the front and top views of the temperature contours as shown in <b><i>Fig. 2</i></b>.
+
+<p align="center">
+  <img width="850" height="250" src="https://user-images.githubusercontent.com/57877963/117217168-d342fa80-adb5-11eb-9a33-03678743e4e0.png">
+</p>
+<p align="center">
+  <img width="850" height="250" src="https://user-images.githubusercontent.com/57877963/117217226-e5249d80-adb5-11eb-8c0a-137129089f09.png">
+</p>
+<h4 align="center" style="margin-top: 0px;"><b>Figure 3.</b> Temperature contours of a sample STHX test case</h4>
+
 ## Documentation and citation information
 
 Further details of the flow correlations and its development can be found in the following journal article (will be posted upon acceptance) [[3]](#3): 
