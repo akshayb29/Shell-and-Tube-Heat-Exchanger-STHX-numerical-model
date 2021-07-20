@@ -38,12 +38,14 @@ Further details of the STHX numerical model can be found in the following journa
 Insert article DOI
 
 If you find the code useful, I would highly appreciate it if you cite the code along with the published journal articles explaining the details of the model development (references [[1]](#1),[[3]](#3), and [[4]](#4)). 
-The DOI for the code is: (will be posted upon publication)
+The DOI for the code is: 10.5281/ZENODO.5117860.
 
 ## References
 
 <a id="1">[1]</a> 
-Insert code citation upon publication
+Krishna, A. B., Jin, K., Ayyaswamy, P. S., Catton, I., and Fisher, T. S. (2021).
+Akshayb29/Shell-and-Tube-Heat-Exchanger-STHX-Numerical-Model: Shell-and-Tube Heat Exchanger Numerical Model.
+https://doi.org/10.5281/ZENODO.5117860.
 
 <a id="2">[2]</a> 
 Bell, I. H., Wronski, J., Quoilin, S., & Lemort, V. (2014). 
