@@ -27,7 +27,7 @@ Apart from the key performance parameters, the code outputs the front and top vi
 <p align="center">
   <img width="850" height="250" src="https://user-images.githubusercontent.com/57877963/117217226-e5249d80-adb5-11eb-8c0a-137129089f09.png">
 </p>
-<h4 align="center" style="margin-top: 0px;"><b>Figure 3.</b> Temperature contours of a sample STHX test case</h4>
+<h4 align="center" style="margin-top: 0px;"><b>Figure 2.</b> Temperature contours of a sample STHX test case</h4>
 
 ## Documentation and citation information
 
