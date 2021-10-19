@@ -32,10 +32,10 @@ Apart from the key performance parameters, the code outputs the front and top vi
 The code also outputs the pressure profiles for both the external and internal flow streams as shown in <b><i>Fig. 3</i></b>.
 
 <p align="center">
-  <img width="850" height="250" src="<img width="959" alt="image" src="https://user-images.githubusercontent.com/57877963/137967225-93569f06-f454-44e0-9bab-ff2d2c772811.png">
+  <img width="850" height="350" src="https://user-images.githubusercontent.com/57877963/137968161-e3cd6cae-07ad-4f54-ac0c-4ed30cbb0c8e.png">
 </p>
 <p align="center">
-  <img width="850" height="250" src=<img width="960" alt="image" src="https://user-images.githubusercontent.com/57877963/137967381-b4ff6dd0-40c0-4636-a5a8-e8371f36e4cd.png">
+  <img width="850" height="350" src="https://user-images.githubusercontent.com/57877963/137967381-b4ff6dd0-40c0-4636-a5a8-e8371f36e4cd.png">
 </p>
 <h4 align="center" style="margin-top: 0px;"><b>Figure 3.</b> (a) External and (b) Internal pressure profiles of a sample STHX test case</h4>
 
