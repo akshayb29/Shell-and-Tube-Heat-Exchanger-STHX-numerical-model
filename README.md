@@ -29,6 +29,16 @@ Apart from the key performance parameters, the code outputs the front and top vi
 </p>
 <h4 align="center" style="margin-top: 0px;"><b>Figure 2.</b> Temperature contours of a sample STHX test case</h4>
 
+The code also outputs the pressure profiles for both the external and internal flow streams as shown in <b><i>Fig. 3</i></b>.
+
+<p align="center">
+  <img width="850" height="250" src="<img width="959" alt="image" src="https://user-images.githubusercontent.com/57877963/137967225-93569f06-f454-44e0-9bab-ff2d2c772811.png">
+</p>
+<p align="center">
+  <img width="850" height="250" src=<img width="960" alt="image" src="https://user-images.githubusercontent.com/57877963/137967381-b4ff6dd0-40c0-4636-a5a8-e8371f36e4cd.png">
+</p>
+<h4 align="center" style="margin-top: 0px;"><b>Figure 3.</b> (a) External and (b) Internal pressure profiles of a sample STHX test case</h4>
+
 ## Documentation and citation information
 
 Further details of the flow correlations and its development can be found in the following journal article (will be posted upon acceptance) [[3]](#3): 
@@ -38,7 +48,7 @@ Further details of the STHX numerical model can be found in the following journa
 Insert article DOI
 
 If you find the code useful, I would highly appreciate it if you cite the code along with the published journal articles explaining the details of the model development (references [[1]](#1),[[3]](#3), and [[4]](#4)). 
-The DOI for the code is: 10.5281/ZENODO.5117860.
+The DOI for the code is: https://doi.org/10.5281/ZENODO.5117860.
 
 ## References
 
@@ -54,10 +64,13 @@ Industrial & engineering chemistry research, 53(6), 2498-2508.
 https://doi.org/10.1021/ie4033999
 
 <a id="3">[3]</a> 
-Insert article citation upon publication
+Krishna, A. B., Jin, K., Ayyaswamy, P. S., Catton, I., and Fisher, T. S. (2021)
+Modeling of supercritical CO2 shell-and-tube heat exchangers at extreme temperatures and pressures. Part 1: Correlation development.
+Under review.
 
 <a id="4">[4]</a> 
-Insert article citation upon publication
+Modeling of supercritical CO2 shell-and-tube heat exchangers at extreme temperatures and pressures. Part 2: Heat exchanger numerical model.
+Under Review.
 
 ## Funding
 
